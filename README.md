@@ -1,3 +1,4 @@
+# KEIR@ECIR2025
 # **Reconstructing Context: Evaluating Advanced Chunking Strategies for Retrieval-Augmented Generation**
 
 ## **Overview**
@@ -30,16 +31,5 @@ To replicate the experiments, follow these steps:
 - Python 3.x
 - PyTorch
 - Transformers (Hugging Face)
-- Faiss (for efficient similarity search)
-
-### **Installation**
-```bash
-git clone https://github.com/your-repo/context-retrieval.git
-cd context-retrieval
-pip install -r requirements.txt
-```
-
-# rag-late-contextual
-[AI Project Work, KEIR] When and How Chunk in Modern RAG Applications
 
 Python notebooks, compiled on Google Colab using local resources with RTX-4090
